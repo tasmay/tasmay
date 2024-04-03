@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/tasmay/](https://github.com/tasmay/)
 - 📝 I regularly write articles on [https://tasmay.dev](https://tasmay.dev)
 - 📫 How to reach me: tasmiyahiqbal@gmail.com
-- 📚 Currently reading: **A Mind for Numbers by Barbera Oakley, PhD**
+- 📚 Currently reading: **A Mind for Numbers by Barbara Oakley, PhD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
