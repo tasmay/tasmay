@@ -1,13 +1,14 @@
 <h2 align="center">Hey, I'm Tasmiyah 👋</h2>
 <h4 align="center">A software engineer living in Ontario, Canada.</h4>
 
-- 🔭 I’m working on **developing my own products.**
-- 🌱 I’m currently learning **Deep Learning.**
+- 👨‍👩‍👦 I'm a wife and mom!
+- 🔭 I'm working on **a cool project using LLMs - watch this space.**
+- 🌱 I'm currently learning **Deep Learning.**
 - 🚀 I'm looking for **new software engineering opportunities in the GTA!**
-- 👨‍💻 All of my projects are available at [https://github.com/tasmay/](https://github.com/tasmay/)
-- 📝 I regularly write articles on [https://tasmay.dev](https://tasmay.dev)
-- 📫 How to reach me: tasmiyahiqbal@gmail.com
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/tasmay/)
+- 📝 I regularly write articles on my [blog](https://tasmay.dev)
 - 📚 Currently reading: **A Mind for Numbers by Barbara Oakley, PhD**
+- 📫 How to reach me: tasmiyahiqbal@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
