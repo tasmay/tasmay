@@ -1,13 +1,12 @@
 <h2 align="center">Hey, I'm Tasmiyah 👋</h2>
-<h4 align="center">A software engineer living in Ontario, Canada.</h4>
+<h4 align="center">📍 Ontario, Canada.</h4>
 
-- 👨‍👩‍👦 I'm a wife and mom!
-- 🔭 I'm working on **a cool project using LLMs - watch this space.**
-- 🌱 I'm currently learning **Deep Learning.**
-- 🚀 I'm looking for **new software engineering opportunities in the GTA!**
+- 🔭 Full stack engineer - React/NextJS.
+- 🌱 Currently learning Biology - all over again!
+- 🚀 Open to engineering or research opportunities in tech
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/tasmay/)
-- 📝 I regularly write articles on my [blog](https://tasmay.dev)
-- 📚 Currently reading: **A Mind for Numbers by Barbara Oakley, PhD**
+- 📝 I (try to) write articles on my [blog](https://tasmay.dev)
+- 📚 Currently reading: **Pale Blue Dot by Carl Sagan**
 - 📫 How to reach me: tasmiyahiqbal@gmail.com
 
 <h3 align="left">Connect with me:</h3>
